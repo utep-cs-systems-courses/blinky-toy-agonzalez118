@@ -2,7 +2,6 @@
 #include "switches.h"
 #include "led.h"
 #include "stateMachines.h"
-
 char switch_state_down, switch_state_changed;
 /*
 static char switch_update_interrupt_sense() {
